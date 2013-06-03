@@ -1,8 +1,9 @@
 #SJCL Decryptor (C#)
 ##Description
-This is SJCL decrypt library in C# version.  
+This is SJCL decrypt(CCM) library in C# version.  
 The code is based on SJCL itself. (direct porting)  
 So, you can find very similar code in the .cs file.
+This version is compatible with SJCL 2012/7/25 version.
 
 I had been googling for the way to decrypt SJCL JSON string in C#,
  and reached to StackOverFlow's post.

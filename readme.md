@@ -16,7 +16,7 @@ This library has 2 files.
 SJCLDecryptor.cs is main library.  
 SJCLAESTables.cs is modified pre-computed table by Bouncy Castle.  
 I have modified this table because SJCL pre-computed table is
- differ than Boucy Castle's one.
+ different from Boucy Castle's one.
 ##Prepare
 1. Add these library (4 files) to your project.
 2. Add reference "System.Runtime.Serialization". (for decoding JSON)
